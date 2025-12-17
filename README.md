@@ -30,8 +30,11 @@ Perfect for **home networks, homelabs, and small offices**.
 ### Grafana Dashboard - Node Exporter - Network Traffic
 ![Grafana Dashboard Node Exporter Network Traffic](screenshots/grafana_network_traffic.png)
 
-### Prometheus
-![Prometheus](screenshots/prometheus.png)
+### Prometheus - Status
+![Prometheus Status](screenshots/prometheus.png)
+
+### Prometheus - Targets
+![Prometheus Targets](screenshots/prometheus_targets.png)
 
 ### Node Exporter Metrics
 ![Node Exporter Metrics](screenshots/node_exporter.png)
