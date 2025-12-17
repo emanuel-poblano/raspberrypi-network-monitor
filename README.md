@@ -22,6 +22,20 @@ Perfect for **home networks, homelabs, and small offices**.
 
 ---
 
+## 📸 Screenshots
+
+### Grafana Dashboard – Node Exporter
+![Grafana Node Exporter Dashboard](screenshots/grafana.png)
+
+### Prometheus
+![Prometheus](screenshots/prometheus.png)
+
+### Node Exporter Metrics
+![Node Exporter Metrics](screenshots/node_exporter.png)
+
+
+---
+
 ## 🧱 Tech Stack
 
 | Component       | Purpose                    |
