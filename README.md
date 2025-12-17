@@ -25,7 +25,10 @@ Perfect for **home networks, homelabs, and small offices**.
 ## 📸 Screenshots
 
 ### Grafana Dashboard – Node Exporter
-![Grafana Node Exporter Dashboard](screenshots/grafana.png)
+![Grafana Node Exporter Dashboard](screenshots/grafana_dashboard.png)
+
+### Grafana Dashboard - Node Exporter - Network Traffic
+![Grafana Dashboard Node Exporter Network Traffic](screenshots/grafana_network_traffic.png)
 
 ### Prometheus
 ![Prometheus](screenshots/prometheus.png)
